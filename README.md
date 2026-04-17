@@ -77,6 +77,15 @@
 
 ---
 
+## Screenshots
+
+| Home | History | StartRun |
+|------------|-----------|--------------|
+| <img width="250" alt="Home" src="https://github.com/user-attachments/assets/0fc842cb-41d0-4ff5-8745-b9ace6106399" /> | <img width="250" alt="history" src="https://github.com/user-attachments/assets/77de10c1-a48b-47c8-a0fa-c7ec4f7eb7a3" /> | <img width="250" alt="startRun" src="https://github.com/user-attachments/assets/1f482c86-08c4-4494-9757-828461a2bec0" /> |
+
+
+---
+
 ## Architecture & Logic Overview
 
 <img width="800" alt="runTrail Arch Logic" src="https://github.com/user-attachments/assets/c1617c6f-5574-44d1-9bed-c1ac246edd66" />
