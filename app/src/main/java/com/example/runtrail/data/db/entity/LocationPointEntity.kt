@@ -6,9 +6,6 @@ import androidx.room.Index
 import androidx.room.PrimaryKey
 import androidx.room.util.TableInfo
 import com.example.runtrail.domain.model.LocationPoint
-import androidx.room.Table as TableInfo
-
-
 
 
 @Entity(
@@ -19,7 +16,7 @@ import androidx.room.Table as TableInfo
             parentColumns = ["id"],
             childColumns = ["runId"],
             // CASCADE ensures location points are deleted when a run is deleted
-            onDelete = TableInfo.ForeignKey.CASCADE
+            onDelete = ForeignKey.CASCADE
         )
     ],
     indices = [Index("runId")]  // Index for fast join queries

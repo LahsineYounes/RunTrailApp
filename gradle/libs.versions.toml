@@ -18,6 +18,7 @@ maps-compose = "8.3.0"
 play-services-maps = "20.0.0"
 play-services-location = "21.3.0"
 accompanist = "0.34.0"
+coil = "2.6.0"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
@@ -71,6 +72,7 @@ play-services-location = { group = "com.google.android.gms", name = "play-servic
 coroutines-test = { group = "org.jetbrains.kotlinx", name = "kotlinx-coroutines-test", version.ref = "coroutines" }
 turbine = { group = "app.cash.turbine", name = "turbine", version = "1.1.0" }
 mockk = { group = "io.mockk", name = "mockk", version = "1.13.10" }
+coil-compose = { group = "io.coil-kt", name = "coil-compose", version.ref = "coil" }
 
 
 [plugins]

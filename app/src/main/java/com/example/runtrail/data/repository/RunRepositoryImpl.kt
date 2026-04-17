@@ -2,8 +2,11 @@ package com.example.runtrail.data.repository
 
 import com.example.runtrail.data.db.dao.LocationPointDao
 import com.example.runtrail.data.db.dao.RunDao
+import com.example.runtrail.data.db.entity.toDomainModel
+import com.example.runtrail.data.db.relation.toDomainModel
 import com.example.runtrail.domain.model.LocationPoint
 import com.example.runtrail.domain.model.Run
+import com.example.runtrail.domain.model.toEntity
 import jakarta.inject.Inject
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.map
