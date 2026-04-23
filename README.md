@@ -7,7 +7,7 @@
 [![Language](https://img.shields.io/badge/language-Kotlin-orange)](https://kotlinlang.org)
 [![UI](https://img.shields.io/badge/UI-Jetpack%20Compose-green)](https://developer.android.com/jetpack/compose)
 [![Architecture](https://img.shields.io/badge/architecture-Clean%20Architecture-lightgrey)](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
-[![License](https://img.shields.io/badge/license-MIT-black)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/license-MIT-black)](LICENSE)
 
 - RunTrail is a precision-focused GPS running tracker engineered for reliability under real-world constraints. 
 - It records routes, pace, distance, and elevation while maintaining consistent background execution even under aggressive system limitations.
