@@ -3,11 +3,11 @@
 > The application prioritizes signal integrity, uninterrupted tracking, and minimal UI noise.
 > Complex telemetry is reduced into a clean, high-contrast interface designed for outdoor visibility and immediate readability.
 
-![Platform](https://img.shields.io/badge/platform-Android-blue)
-![Language](https://img.shields.io/badge/language-Kotlin-orange)
-![UI](https://img.shields.io/badge/UI-Jetpack%20Compose-green)
-![Architecture](https://img.shields.io/badge/architecture-Clean%20Architecture-lightgrey)
-![License](https://img.shields.io/badge/license-MIT-black)
+[![Platform](https://img.shields.io/badge/platform-Android-blue)](https://developer.android.com)
+[![Language](https://img.shields.io/badge/language-Kotlin-orange)](https://kotlinlang.org)
+[![UI](https://img.shields.io/badge/UI-Jetpack%20Compose-green)](https://developer.android.com/jetpack/compose)
+[![Architecture](https://img.shields.io/badge/architecture-Clean%20Architecture-lightgrey)](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
+[![License](https://img.shields.io/badge/license-MIT-black)](https://opensource.org/licenses/MIT)
 
 - RunTrail is a precision-focused GPS running tracker engineered for reliability under real-world constraints. 
 - It records routes, pace, distance, and elevation while maintaining consistent background execution even under aggressive system limitations.
